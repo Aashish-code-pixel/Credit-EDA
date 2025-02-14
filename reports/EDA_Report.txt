@@ -1,0 +1,18 @@
+Dataset Information:
+---------------------
+Number of entries: 5000
+Number of features: 5
+
+Descriptive Statistics:
+-----------------------
+           Age      Income  Credit_Score  Loan_Amount  Default
+count  5000.00   5000.00      5000.00      5000.00  5000.00
+mean     35.21  55000.34       700.45     15000.67     0.28
+std       9.45   12000.23        40.21      5000.12     0.45
+min      21.00  30000.00       600.00      5000.00     0.00
+max      65.00  120000.00      850.00     50000.00     1.00
+
+Class Distribution:
+-------------------
+0 (Non-Defaulted): 3600
+1 (Defaulted): 1400
